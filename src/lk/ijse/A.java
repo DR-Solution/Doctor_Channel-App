@@ -17,8 +17,12 @@ public class A {
     public static void main(String[] args) {
         for (int i = 0; i <10 ; i++) {
             System.out.println("Dilshan rajiika");
-
+            Login();
         }
 
     }
+    public static  void Login(){
+        System.out.printf("Create Login ");
+    }
+
 }
